@@ -12,4 +12,13 @@ ul {
 }
 body {
   background-color: skyblue;
+  font-family: sans-serif;
+}
+.intro {
+  font-style: italic;
+  font-family: fantasy;
+}
+img {
+  width: 30%;
+  height:auto;
 }
